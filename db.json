@@ -11,7 +11,7 @@
     "enable_check_hacking" : false
   },
   "pachi_dev": {
-    "app_sign_key" : "F4D5180DCCA1420012E44A8ED5E6584973C2A8E3",
+    "app_sign_key" : "F4D5180DCCA1420012E44A8ED5E6584973C2A8E31",
     "need_show_app_sign" : true,
     "enable_check_hacking" : true
   }
