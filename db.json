@@ -7,8 +7,8 @@
   },
   "pachi": {
     "app_sign_key" : "F4D5180DCCA1420012E44A8ED5E6584973C2A8E3",
-    "need_show_app_sign" : false,
-    "enable_check_hacking" : false
+    "need_show_app_sign" : true,
+    "enable_check_hacking" : true
   },
   "pachi_dev": {
     "app_sign_key" : "08B975C9F5557BA7644E12672580D7368E37F1271",
